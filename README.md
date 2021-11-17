@@ -2,8 +2,8 @@
 
 My name is Muhammet. I am a mechanical engineer. I want to be a Front-End Developer!
 
-- 🔭 I’m currently working on Javascript.
-- 🌱 I’m currently learning React Framework.
+- 🔭 I’m currently working on JavaScript.
+- 🌱 I’m currently learning JavaScript.😅
 - 👯 I’m looking to collaborate on being inside a project.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
