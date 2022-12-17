@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-My name is Muhammet. I am a mechanical engineer. I want to be a Front-End Developer!
-
-- 🔭 I’m currently working on Frontend Web Development.
-- 🌱 I’m currently learning React JS.😅
-- 👯 I’d like to land a job or to be a part of a team.
+My name is Muhammet. I am a mechanical engineer.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to contact me:
