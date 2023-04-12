@@ -21,16 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=muhammetozturk95&style=flat-square&color=blue" alt=""/>
 </div>  
 
-<!-- hey there -->
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<!-- banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -45,7 +35,3 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammetozturk95)](https://git.io/streak-stats)
